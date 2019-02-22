@@ -43,6 +43,20 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2019-02-22 11:17:28</sys_updated_on>
         </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-22 13:42:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7484229ddb372b0030361aaf2996191e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_fonua_po_version_po5_f1" name="x_fonua_po_version_po5_f1" sys_domain="global" view="Default view">dc43429ddbf32b0030361aaf29961941</sys_ui_form>
+            <sys_ui_section caption="Order Line 3" display_value="Order Line 3" name="x_fonua_po_version_po5_f1" sys_domain="global" view="Default view">b484229ddb372b0030361aaf2996191b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-22 13:42:46</sys_updated_on>
+        </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_fonua_po_version_po5_f1</name>
             <roles/>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="962e16d9db372b0030361aaf2996196e" sys_domain="global" table="x_fonua_po_version_po5_f1" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-22 13:15:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>962e16d9db372b0030361aaf29961970</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_fonua_po_version_po5_f1" name="x_fonua_po_version_po5_f1" sys_domain="global" view="89d6973fdb57ef0030361aaf299619ac">962e16d9db372b0030361aaf2996196e</sys_ui_form>
+            <sys_ui_section caption="PO Tracking Version 5" display_value="PO Tracking Version 5" name="x_fonua_po_version_po5_f1" sys_domain="global" view="89d6973fdb57ef0030361aaf299619ac">562e16d9db372b0030361aaf2996196d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-22 13:15:01</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-22 13:15:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>522e16d9db372b0030361aaf29961971</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_fonua_po_version_po5_f1" name="x_fonua_po_version_po5_f1" sys_domain="global" view="89d6973fdb57ef0030361aaf299619ac">962e16d9db372b0030361aaf2996196e</sys_ui_form>
+            <sys_ui_section caption="Department Authorize" display_value="Department Authorize" name="x_fonua_po_version_po5_f1" sys_domain="global" view="89d6973fdb57ef0030361aaf299619ac">1e2e16d9db372b0030361aaf2996196d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-22 13:15:01</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-22 13:24:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3e40261ddb372b0030361aaf29961995</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_fonua_po_version_po5_f1" name="x_fonua_po_version_po5_f1" sys_domain="global" view="89d6973fdb57ef0030361aaf299619ac">962e16d9db372b0030361aaf2996196e</sys_ui_form>
+            <sys_ui_section caption="Finance Authorize" display_value="Finance Authorize" name="x_fonua_po_version_po5_f1" sys_domain="global" view="89d6973fdb57ef0030361aaf299619ac">fe40a21ddb372b0030361aaf299619a1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-22 13:24:21</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_fonua_po_version_po5_f1</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-22 13:15:01</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>962e16d9db372b0030361aaf2996196e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_fonua_po_version_po5_f1</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="PO_version5" source="x_fonua_po_version">1418c7d8dbbba70030361aaf2996194f</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="PO_version5">1418c7d8dbbba70030361aaf2996194f</sys_scope>
+            <sys_update_name>sys_ui_form_sections_962e16d9db372b0030361aaf2996196e</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-22 13:15:01</sys_updated_on>
+            <sys_user/>
+            <view display_value="Finance" name="Finance">89d6973fdb57ef0030361aaf299619ac</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

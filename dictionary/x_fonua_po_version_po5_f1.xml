@@ -15,7 +15,39 @@
         <element attributes="edge_encryption_enabled=true" label="Supplier no" max_length="40" name="u_def_supp_no" type="string"/>
         <element label="Total" max_length="15" name="u_def_tot_1" type="decimal"/>
         <element label="Total" max_length="15" name="u_def_tot_2" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true" label="Department Status" max_length="40" name="u_dept_stat" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Authorize" max_length="40" name="u_dep_auth" type="string">
+            <choice>
+                <element label="authorize" sequence="0" value="authorize"/>
+                <element label="cancel" sequence="1" value="cancel"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Authorizer" max_length="40" name="u_dep_auth_user" read_only="true" type="string"/>
+        <element label="Authorized date" max_length="40" name="u_dep_auth_when" read_only="true" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Authorize" max_length="40" name="u_fin_auth" type="string">
+            <choice>
+                <element label="authorize" sequence="0" value="authorize"/>
+                <element label="cancel" sequence="1" value="cancel"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Authorizer" max_length="40" name="u_fin_auth_user" read_only="true" type="string"/>
+        <element label="Authorized date" max_length="40" name="u_fin_auth_when" read_only="true" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Finance status" max_length="40" name="u_fin_status" read_only="true" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="PO number" max_length="40" name="u_glob_po" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Notes" max_length="40" name="u_quo_1_notes_1" type="string"/>
+        <element label="Quoted price" max_length="15" name="u_quo_1_price_1" type="decimal"/>
+        <element label="Quoted price" max_length="15" name="u_quo_1_price_2" type="decimal"/>
+        <element label="Quoted price" max_length="15" name="u_quo_1_price_3" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true" label="Supplier 1" max_length="40" name="u_quo_1_supp_1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Supplier 2" max_length="40" name="u_quo_1_supp_2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Supplier 3" max_length="40" name="u_quo_1_supp_3" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Notes" max_length="40" name="u_quo_2_notes_1" type="string"/>
+        <element label="Quoted price" max_length="15" name="u_quo_2_price_1" type="decimal"/>
+        <element label="Quoted price" max_length="15" name="u_quo_2_price_2" type="decimal"/>
+        <element label="Quoted price" max_length="15" name="u_quo_2_price_3" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true" label="Supplier 1" max_length="40" name="u_quo_2_prod_1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Supplier 2" max_length="40" name="u_quo_2_supp_2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Supplier 3" max_length="40" name="u_quo_2_supp_3" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="New String" max_length="40" name="u_string_4" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="New String" max_length="40" name="u_string_5" type="string"/>
     </element>

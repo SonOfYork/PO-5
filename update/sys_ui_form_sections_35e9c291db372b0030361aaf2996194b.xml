@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="35e9c291db372b0030361aaf2996194b" sys_domain="global" table="x_fonua_po_version_po5_f1" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-22 11:46:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>35e9c291db372b0030361aaf2996194d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_fonua_po_version_po5_f1" name="x_fonua_po_version_po5_f1" sys_domain="global" view="95cdb273db57ef0030361aaf29961958">35e9c291db372b0030361aaf2996194b</sys_ui_form>
+            <sys_ui_section caption="PO Tracking Version 5" display_value="PO Tracking Version 5" name="x_fonua_po_version_po5_f1" sys_domain="global" view="95cdb273db57ef0030361aaf29961958">3de9c291db372b0030361aaf29961949</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-22 11:46:30</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-22 12:29:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>82c39a95db372b0030361aaf2996199b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_fonua_po_version_po5_f1" name="x_fonua_po_version_po5_f1" sys_domain="global" view="95cdb273db57ef0030361aaf29961958">35e9c291db372b0030361aaf2996194b</sys_ui_form>
+            <sys_ui_section caption="Quotes line 1" display_value="Quotes line 1" name="x_fonua_po_version_po5_f1" sys_domain="global" view="95cdb273db57ef0030361aaf29961958">4ec39a95db372b0030361aaf29961999</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-22 12:29:40</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-22 12:36:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1e4556d5db372b0030361aaf299619bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_fonua_po_version_po5_f1" name="x_fonua_po_version_po5_f1" sys_domain="global" view="95cdb273db57ef0030361aaf29961958">35e9c291db372b0030361aaf2996194b</sys_ui_form>
+            <sys_ui_section caption="Quotes line 2" display_value="Quotes line 2" name="x_fonua_po_version_po5_f1" sys_domain="global" view="95cdb273db57ef0030361aaf29961958">1a45d2d5db372b0030361aaf299619e0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-22 12:36:15</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_fonua_po_version_po5_f1</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-22 11:46:30</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>35e9c291db372b0030361aaf2996194b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_fonua_po_version_po5_f1</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="PO_version5" source="x_fonua_po_version">1418c7d8dbbba70030361aaf2996194f</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="PO_version5">1418c7d8dbbba70030361aaf2996194f</sys_scope>
+            <sys_update_name>sys_ui_form_sections_35e9c291db372b0030361aaf2996194b</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-22 11:46:30</sys_updated_on>
+            <sys_user/>
+            <view display_value="Quotes" name="Quotes">95cdb273db57ef0030361aaf29961958</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Quotes line 2" section_id="1a45d2d5db372b0030361aaf299619e0" sys_domain="global" table="x_fonua_po_version_po5_f1" version="3" view="Quotes">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_def_prod_2</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-22 12:36:16</sys_created_on>
+            <sys_id>ea4596d5db372b0030361aaf2996190c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Quotes line 2" display_value="Quotes line 2" name="x_fonua_po_version_po5_f1" sys_domain="global" view="95cdb273db57ef0030361aaf29961958">1a45d2d5db372b0030361aaf299619e0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-22 12:36:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_quo_2_prod_1</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-22 12:36:16</sys_created_on>
+            <sys_id>6e4596d5db372b0030361aaf2996190c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Quotes line 2" display_value="Quotes line 2" name="x_fonua_po_version_po5_f1" sys_domain="global" view="95cdb273db57ef0030361aaf29961958">1a45d2d5db372b0030361aaf299619e0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-22 12:36:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_quo_2_supp_2</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-22 12:36:16</sys_created_on>
+            <sys_id>ee4596d5db372b0030361aaf2996190c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Quotes line 2" display_value="Quotes line 2" name="x_fonua_po_version_po5_f1" sys_domain="global" view="95cdb273db57ef0030361aaf29961958">1a45d2d5db372b0030361aaf299619e0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-22 12:36:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_quo_2_supp_3</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-22 12:36:16</sys_created_on>
+            <sys_id>624596d5db372b0030361aaf2996190d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Quotes line 2" display_value="Quotes line 2" name="x_fonua_po_version_po5_f1" sys_domain="global" view="95cdb273db57ef0030361aaf29961958">1a45d2d5db372b0030361aaf299619e0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-22 12:36:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-22 12:36:16</sys_created_on>
+            <sys_id>e24596d5db372b0030361aaf2996190d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Quotes line 2" display_value="Quotes line 2" name="x_fonua_po_version_po5_f1" sys_domain="global" view="95cdb273db57ef0030361aaf29961958">1a45d2d5db372b0030361aaf299619e0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-22 12:36:16</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_quo_2_notes_1</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-22 12:36:16</sys_created_on>
+            <sys_id>664596d5db372b0030361aaf2996190d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Quotes line 2" display_value="Quotes line 2" name="x_fonua_po_version_po5_f1" sys_domain="global" view="95cdb273db57ef0030361aaf29961958">1a45d2d5db372b0030361aaf299619e0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-22 12:36:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_quo_2_price_1</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-22 12:36:16</sys_created_on>
+            <sys_id>e64596d5db372b0030361aaf2996190d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Quotes line 2" display_value="Quotes line 2" name="x_fonua_po_version_po5_f1" sys_domain="global" view="95cdb273db57ef0030361aaf29961958">1a45d2d5db372b0030361aaf299619e0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-22 12:36:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_quo_2_price_2</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-22 12:36:16</sys_created_on>
+            <sys_id>6a4596d5db372b0030361aaf2996190d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Quotes line 2" display_value="Quotes line 2" name="x_fonua_po_version_po5_f1" sys_domain="global" view="95cdb273db57ef0030361aaf29961958">1a45d2d5db372b0030361aaf299619e0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-22 12:36:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_quo_2_price_3</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-22 12:36:16</sys_created_on>
+            <sys_id>ea4596d5db372b0030361aaf2996190d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Quotes line 2" display_value="Quotes line 2" name="x_fonua_po_version_po5_f1" sys_domain="global" view="95cdb273db57ef0030361aaf29961958">1a45d2d5db372b0030361aaf299619e0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-22 12:36:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Quotes line 2</caption>
+            <header>false</header>
+            <name>x_fonua_po_version_po5_f1</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-22 12:36:15</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1a45d2d5db372b0030361aaf299619e0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Quotes line 2</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="PO_version5" source="x_fonua_po_version">1418c7d8dbbba70030361aaf2996194f</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="PO_version5">1418c7d8dbbba70030361aaf2996194f</sys_scope>
+            <sys_update_name>sys_ui_section_1a45d2d5db372b0030361aaf299619e0</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-22 12:36:15</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Quotes" name="Quotes">95cdb273db57ef0030361aaf29961958</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
