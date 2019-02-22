@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="PO5_f1" max_length="40" name="x_fonua_po_version_po5_f1" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Internal ID" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Contact" max_length="40" name="u_def_cont" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Contact number" max_length="40" name="u_def_cont_no" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="PO number" max_length="40" name="u_def_po" type="string"/>
+        <element label="Price" max_length="15" name="u_def_price_1" type="decimal"/>
+        <element label="Price" max_length="15" name="u_def_price_2" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true" label="Product" max_length="40" name="u_def_prod_1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Product" max_length="40" name="u_def_prod_2" type="string"/>
+        <element label="Quantity" max_length="15" name="u_def_qty_1" type="decimal"/>
+        <element label="Quantity" max_length="15" name="u_def_qty_2" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true" label="Supplier name" max_length="40" name="u_def_supp_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Supplier no" max_length="40" name="u_def_supp_no" type="string"/>
+        <element label="Total" max_length="15" name="u_def_tot_1" type="decimal"/>
+        <element label="Total" max_length="15" name="u_def_tot_2" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true" label="PO number" max_length="40" name="u_glob_po" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="New String" max_length="40" name="u_string_4" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="New String" max_length="40" name="u_string_5" type="string"/>
+    </element>
+</database>
